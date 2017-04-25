@@ -1,4 +1,4 @@
-1 # Flatten
+# Flatten
 Javascript function that takes a list of arrays as the argument and returns one array.
 Example
 ```javascript
